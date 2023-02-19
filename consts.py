@@ -1,0 +1,7 @@
+FILE_PATH = '/Users/huy.ta/Documents/work/tinhtien/sheets.xlsx'
+PAYER_SHEET_NAME = 'Thông tin thanh toán'
+TEMPLATE_SHEET_NAME = '{{Ngày}}_{{Địa điểm}}'
+THAM_GIA = 'Tham gia'
+NOP='Nộp'
+EVENT = 'Event'
+PAYER='Payer'

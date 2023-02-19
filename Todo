@@ -1,0 +1,21 @@
+xuất sheet excel tính tiền cho từng thành viên (done)
+tính toàn bộ tiền của mọi thành viên (done)
+tính toàn bộ tiền của một thành viên (done)
+list những người thành viên đó phải trả (done)
+tính tiền đóng góp cho mỗi team/thành viên
+
+thành viên đó tham gia những vụ nào (done)
+tao sheet-dataframe cho moi thanh vine- orderdict (done)
+
+đọc danh sách thành viên (có những ai) (Done)
+parser sheet tinh tien (Done)
+extract processor(Done)
+đọc 1 sheet - Done
+đọc file exel (pandas) (done)
+Parser cho payer-sheet (done)
+Parser cho member-sheet (done)
+new consts (done)
+get sheet visible sheet (done)
+filter sheet name (done)
+
+
